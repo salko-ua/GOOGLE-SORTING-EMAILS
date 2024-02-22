@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "googlesortingemails"
-version = "0.1.0"
+version = "0.1.1"
 description = "Mail sorting."
 authors = ["salko-ua <chips69jamil69game@gmail.com>"]
-license = "GNU GENERAL PUBLIC LICENSE"
+license = "GNU GENERAL PUBLIC LICENSE V3"
 readme = "README.md"
 
 [tool.poetry.dependencies]
